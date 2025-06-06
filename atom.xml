@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>linayanc&#39;s blog</title>
+  
+  <subtitle>A blog about technology and life</subtitle>
+  <link href="https://linayanc.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://linayanc.github.io/"/>
+  <updated>2025-06-06T10:28:20.210Z</updated>
+  <id>https://linayanc.github.io/</id>
+  
+  <author>
+    <name>lina yanc</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Laya2.0与TileMapEditor</title>
+    <link href="https://linayanc.github.io/2025/06/04/Laya2-0%E4%B8%8ETileMapEditor/"/>
+    <id>https://linayanc.github.io/2025/06/04/Laya2-0%E4%B8%8ETileMapEditor/</id>
+    <published>2025-06-04T09:44:20.000Z</published>
+    <updated>2025-06-06T10:28:20.210Z</updated>
+    
+    <content type="html"><![CDATA[<p>本文讲述了如何在Laya2.0中（本文采用Laya2.13.1）使用外部地图工具TileMapEditor1.1.5（官方适配版本）搭建2D游戏地图，内容包括：创建地图，创建A*寻路节点。</p><span id="more"></span><h3 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h3><p>以下是正文</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;本文讲述了如何在Laya2.0中（本文采用Laya2.13.1）使用外部地图工具TileMapEditor1.1.5（官方适配版本）搭建2D游戏地图，内容包括：创建地图，创建A*寻路节点。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
